@@ -1,0 +1,101 @@
+[
+    {
+      "Nome": "Goku",
+      "Sexo": "Masculino",
+      "Descricao":"Alegre, corajoso, e também um pouco ingênuo, Goku é um Saiyajin originalmente enviado à Terra quando criança com a missão de destruí-la.",
+      "Especie": [ "Sayajin" ],
+      "Habilidade": [ "Kamehameha", "Kaioken" ] ,
+      "Altura": 1.75,
+      "Peso": 65,
+      "Imagem": "\\img\\guerreiros\\Goku.png"
+    },
+    {
+      "Nome": "Vegeta",
+      "Sexo":"Masculino",
+      "Descricao": "É um lutador tático que corre para qualquer luta sem hesitação. Porém, sua raiva ou arrogância geralmente causa-o a subestimar seu oponente.",
+      "Especie": [ "Sayajin" ],
+      "Habilidade": [ "FinalFlash", "GalickGun" ],
+      "Altura": 1.64,
+      "Peso": 56,
+      "Imagem": "\\img\\guerreiros\\Vegeta.png"
+    },
+    {
+      "Nome": "Gohan",
+      "Sexo":"Masculino",
+      "Descricao": "Gohan é o primeiro híbrido (meio terráqueo, meio Saiyajin) a aparecer nas séries. Ele é nomeado após o avô adotivo de Goku, Gohan.",
+      "Especie": ["Sayajin", "Humano"],
+      "Habilidade": [ "Masenko", "Kamehameha" ],
+      "Altura": 1.76,
+      "Peso": 61,
+      "Imagem": "\\img\\guerreiros\\Gohan.png"
+    },
+    {
+      "Nome": "Broly",
+      "Sexo":"Masculino",
+      "Descricao": "Broly não usa jóias, apenas um colar de choque criado por Paragas para controlá-lo, e também usa roupas diferentes, e uma pele de animal verde ao redor da cintura.",
+      "Especie": [ "Sayajin" ],
+      "Habilidade": [ "Masenko", "Kamehameha" ],
+      "Altura": 2.30,
+      "Peso": 88,
+      "Imagem": "\\img\\guerreiros\\Broly.png"
+    },
+    {
+      "Nome": "Goten",
+      "Sexo":"Masculino",
+      "Descricao": "Goten é ingênuo e gosta de se divertir como seu pai, e é bondoso como seu pai e irmão. Ele também é um pouco travesso, devido a ser influenciado por seu melhor amigo Trunks.",
+      "Especie": [ "Sayajin, Humano" ],
+      "Habilidade": ["Kamehameha" ],
+      "Altura": 1.23,
+      "Peso": 26,
+      "Imagem": "\\img\\guerreiros\\Goten.png"
+    },
+    {
+      "Nome": "Trunks (Presente)",
+      "Sexo":"Masculino",
+      "Descricao": "Trunks do Presente usa um gi verde escuro, um cinto laranja, e as mesmas botas amarelas que Trunks do Futuro usa.",
+      "Especie": [ "Sayajin, Humano" ],
+      "Habilidade": ["Buster Cannon" ],
+      "Altura": 1.29,
+      "Peso": 30,
+      "Imagem": "\\img\\guerreiros\\Trunks.png"
+    },
+    {
+      "Nome": "Freeza",
+      "Descricao": "Freeza ama morte e destruição, como quando ele aproveita a destruição do Planeta Vegeta. ",
+      "Especie": [ "Acrosians" ],
+      "Habilidade": ["Buster Cannon" ],
+      "Altura": 1.58,
+      "Peso": 58,
+      "Imagem": "\\img\\guerreiros\\Freeza.png"
+    },
+    {
+      "Nome": "Kuririn",
+      "Sexo":"Masculino",
+      "Descricao": "Originalmente uma pessoa invejosa e egoísta, Kuririn não respeitava regras quando é confrontado com o treinamento de Kame.",
+      "Especie": [ "Humano" ],
+      "Habilidade": ["Kienzan" ],
+      "Altura": 1.53,
+      "Peso": 45,
+      "Imagem": "\\img\\guerreiros\\Kuririn.png"
+    },
+    {
+      "Nome": "Piccolo",
+      "Sexo":"Masculino",
+      "Descricao": "Piccolo é um dos personagens mais inteligentes da série, retendo o gênio tático de Piccolo Daimaoh.",
+      "Especie": [ "Namekuseijin" ],
+      "Habilidade": ["Makenkosappo" ],
+      "Altura": 2.16,
+      "Peso": 110,
+      "Imagem": "\\img\\guerreiros\\Piccolo.png"
+    },
+    {
+      "Nome": "Android 16",
+      "Sexo":"Masculino",
+      "Descricao": "Ele é o único modelo dos três que é completamente sintético, que, até o desenvolvimento de Androide 17 e Androide 18, era a norma para os projetos de Gero",
+      "Especie": [ "Android" ],
+      "Habilidade": ["Rocket Punch" ],
+      "Altura": 1.54,
+      "Peso": 45,
+      "Imagem": "\\img\\guerreiros\\Android16.png"
+    }
+  ]
